@@ -3,10 +3,10 @@ import cv2
 import numpy as np
 import time
 
-who = "ENTER EMAIL ADRESS"
-subject = "ENTER TITLE"
-text = "ENTER TEXT"
-repeat = 10
+who = "slg283@gmail.com"
+subject = "My Email Spammer!"
+text = "Here's 10 emails in 25 seoncds!"
+repeat = 1
 
 w, h = pyautogui.size()
 x, y = pyautogui.position()
